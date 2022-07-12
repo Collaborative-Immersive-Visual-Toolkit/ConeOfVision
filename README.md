@@ -3,7 +3,7 @@ code utilized for the cscw 2022 paper  Cone of Vision as a Behavioural Cue for V
 
 The repository has 3 folders 
 
-A) a python folder which contains the code to extract the contours from the 360 gaze dataset and comparing them across the 2 other dataset "Gaze in the wild" and "S Gaze" [instructions](Python/instruction.md)
+A) a python folder which contains the code to extract the contours from the 360 gaze dataset and comparing them across the 2 other dataset "Gaze in the wild" and "S Gaze" [instructions](Python/instruction.md) .
 
 B) a firebase folder which contains the code to create the webpages that are used for the collaborative EDA task (a deployed website can be seen in https://graphs-for-collaborative-vr.web.app)
 
