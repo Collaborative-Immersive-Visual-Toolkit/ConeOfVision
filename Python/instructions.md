@@ -1,9 +1,10 @@
-The first step consist in downloading the 3 dataset 
-
+-----------
+The first step consist in downloading the 3 dataset and generate the pkl containing gaze data in head local coordinate
+-----------
 
 -----------
 360 VR gaze
------------
+
 
 1 - Download the dataset https://gin.g-node.org/ioannis.agtzidis/360_em_dataset
 
@@ -16,7 +17,7 @@ The first step consist in downloading the 3 dataset
 
 ------------------------
 Gaze in the wild Dataset
-------------------------
+
 
 1 - Download dataset from #http://www.cis.rit.edu/~rsk3900/gaze-in-wild/
 
@@ -28,8 +29,8 @@ Gaze in the wild Dataset
 
 
 --------------------------------
-Generate S gaze dataset pkl file 
---------------------------------
+S gaze dataset 
+
 
 1 - Download dataset from https://cranehzm.github.io/SGaze.html
 
@@ -41,7 +42,9 @@ Generate S gaze dataset pkl file
 
 
 ------------------------------------------------------------------------------------------------
-
 The second step consist in comparing them by running the 360_VR_gaze.pkl
+------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------------
 If you want to extract the constours for use in the unity application use afm_10_contours.py
+------------------------------------------------------------------------------------------------
