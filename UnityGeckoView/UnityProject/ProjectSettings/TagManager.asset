@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VRUIBackground
+  - VRUIText
+  - VRUIToggle
+  - VRUIOutline
+  - VRUIButton
+  - VRUIButtonIcon
+  - VRUIIcon
+  - VRUISlider
+  - VRUICheckbox
+  - VRUIAccent
+  - VRUIButtonControlBar
+  - VRUIButtonTab
+  - VRUIRadio
+  - VRUIButtonList
+  - OthersStickyCircle
+  - Notification
+  - remoteavatar
+  - octagon
+  - uihelpers
+  - owncone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - octagon
+  - othersCones
+  - own cone
+  - player
+  - inverseOctagon
+  - remoteplayer
+  - floor
+  - 'othersStickyCircles '
+  - logo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

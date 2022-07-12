@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63d3daa78898c740ba39ce9ae54e02c, type: 3}
+  m_Name: Copresence
+  m_EditorClassIdentifier: 
+  name: Co-presence
+  description: 'Please use the slider to select the answer that best expresses how
+    you feel about each statement. '
+  questions:
+  - question: In the last meeting, to what extent did you have the sense of the other
+      person being together with you?
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Continue to think back about the last session. To what extent can you
+      imagine yourself being now with the other person in that room?
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Please rate how closely your sense of being together with others in
+      a real-world setting resembles your sense of being with them in the virtual
+      room
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 

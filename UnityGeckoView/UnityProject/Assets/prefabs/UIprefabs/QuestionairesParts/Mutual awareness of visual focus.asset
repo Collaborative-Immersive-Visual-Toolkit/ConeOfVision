@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63d3daa78898c740ba39ce9ae54e02c, type: 3}
+  m_Name: Mutual awareness of visual focus
+  m_EditorClassIdentifier: 
+  name: 'Mutual awareness of visual focus '
+  description: 'Please use the slider to select the answer that best expresses how
+    you feel about each statement. '
+  questions:
+  - question: 'I was often aware of the other visual focus in the environment. '
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: 'The other was often aware of my visual focus in the room. '
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 

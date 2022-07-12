@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3822d08ab514b7c44b307f5c8984fd34, type: 3}
+  m_Name: Experiment
+  m_EditorClassIdentifier: 
+  Session:
+  - name: Cone_Pointer_interaction
+    TrialsOrder: 1
+    NetworkTrialUrl: https://collaborativevrdb-default-rtdb.europe-west1.firebasedatabase.app/random.json
+    trials:
+    - name: Baseline
+      sceneName: Condition_Baseline
+      questionaireRefName: Condition_Baseline
+    - name: Condition_To_Test
+      sceneName: Condition_To_Test
+      questionaireRefName: Condition_To_Test

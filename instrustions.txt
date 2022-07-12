@@ -1,0 +1,8 @@
+The repository has 3 folders 
+
+a python folder which contains the code to extract the contours and comparing them across the 3 dataset 
+
+a firebase folder which contains the code to create the webpages that are used for the collaborative eda task 
+
+a UnityGeckoView folder which contains the code for the unity application and the gecko view plugin for the display of the webpage within the application 
+

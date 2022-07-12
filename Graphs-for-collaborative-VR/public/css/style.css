@@ -1,0 +1,85 @@
+body { overflow: hidden; / Hide scrollbars / }
+
+#sylvester-standalone a.toEditor {display: none;} 
+
+g .hidden text{
+	display: none;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	font-size:8px;
+	z-index:1000;
+	}
+/*svg g .hidden:hover text {display: block;}*/
+#sizeContainer, .clearButton, .xlabel, .ylabel,.xlabel text , .ylabel text,  .xAxis text, .yAxis text, .legend text {
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	font-size:8px;
+	}
+
+
+	
+	:root { --var-color-grey: #898989; }
+   /*  body { 
+        margin:0; 
+        position:fixed; 
+        top:0; 
+        right:0; 
+        bottom:0; 
+        left:0; 
+        font-family: Helvetica; ; 
+        } */
+    text {
+		font-family: Helvetica;
+        color: var(--var-color-grey);
+        font-size: 1.2em;
+	}
+
+  
+  
+    .grid path { stroke-width: 0; }
+    .grid .tick line, .diagonal {
+        stroke: lightgrey;
+        opacity: 0.6;
+        stroke-dasharray: 2,1;
+        stroke-width: 1;
+        shape-rendering: crispEdges;
+    }
+    .d3-tip {
+      line-height: 1;
+      padding: 6px;
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      border-radius: 4px;
+      font-size: 12px;
+    }
+rect.bar { fill: steelblue; }
+
+#wrapper {
+  width: 100%;
+  height:100px;
+  overflow: hidden; /* add this to contain floated children */
+}
+#description1 {
+  width: 48%;
+  float:left; /* add this */
+
+}
+#description2 {
+  width: 48%;
+  float: left; /* add this */
+}
+
+#description {
+  width: 100%;
+  float:left; /* add this */
+
+}
+
+#description1, #description2{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1%;
+  text-transform:uppercase;
+  font-size:14px;
+  }
+
+  
