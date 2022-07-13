@@ -5,7 +5,7 @@
 
 This unity application collects behavioural data (head, hands and verbal communication) of participants performing an exploratory data analysisi tasks
 
-the application support a max of two 
+the application support a max of two users (running the application from an android oculus quest) and one moderator (running the application from desktop unity editor)
 
 
 # Build the application
@@ -14,9 +14,7 @@ If you need info to build the application for Oculus Quest Android follow this l
 
 # Multiplayer
 
-The application supports multiplayers using the PUN2 Photon Unity Network plugin you need a free account to run it https://www.photonengine.com/pun
-
-And create a Photon Cloud App 
+The application supports multiplayers using the PUN2 Photon Unity Network plugin you need a free account to run it https://www.photonengine.com/pun and create a Photon Cloud App copy the photon App ID and insert it in the photon server settings (see image below)
 
 ![Picture2](https://github.com/Collaborative-Immersive-Visual-Toolkit/ConeOfVision/blob/master/photonserversettings.JPG)
 
