@@ -10,7 +10,7 @@ which contains the code to extract the contours from the 360 gaze dataset and co
 
 # Firebase folder (Node.js application)
 which contains the code to create the webpages that are used for the collaborative EDA task (a deployed website can be seen in https://graphs-for-collaborative-vr.web.app) if you need instructions to deploy the website to your firebase hosting please follow this link https://firebase.google.com/docs/hosting/quickstart
-if you need instructions to runhe website locally follow this link https://firebase.google.com/docs/hosting/test-preview-deploy
+if you need instructions to run the website locally follow this link https://firebase.google.com/docs/hosting/test-preview-deploy
 
 # UnityGeckoView
 which contains the code for the unity application and the gecko view plugin for the display of the webpage within the application  [instructions](https://github.com/Collaborative-Immersive-Visual-Toolkit/ConeOfVision/blob/master/UnityGeckoView/README.md#collaborative-vr-experiment)
