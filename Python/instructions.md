@@ -5,7 +5,7 @@
 -----------
 
 -----------
-360 VR gaze
+360 VR gaze https://dl.acm.org/doi/abs/10.1145/3343031.3350947
 
 
 A - Download the dataset https://gin.g-node.org/ioannis.agtzidis/360_em_dataset, alternatively donwload the processed pkl file from https://drive.google.com/file/d/1SMKngXkOhGDXMXUnIoKQe_3lXSA3UJDH/view?usp=sharing and skip step B and C 
@@ -48,7 +48,7 @@ S gaze dataset  https://cranehzm.github.io/SGaze/pdf/hu19_SGaze.pdf
 
 ![image](https://user-images.githubusercontent.com/7544912/178714374-ac665a4d-a1c3-4084-8ed5-8fa388116af3.png)
 
-In order to use the extracted contour in the Unity application you will need to reformat the json file with only one of the extracted contours
+In order to [use the extracted contour in the Unity application](https://github.com/Collaborative-Immersive-Visual-Toolkit/ConeOfVision/blob/master/UnityGeckoView/README.md#cone-of-vision) you will need to reformat the json file with only one of the extracted contours
 
 use as a template the following file ConeOfVision\UnityGeckoView\UnityProject\Assets\Resources\vectors_triangles_cone_20_77.json and do not alter the triangle list 
 
