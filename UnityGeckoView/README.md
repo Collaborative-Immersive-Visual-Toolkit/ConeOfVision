@@ -7,6 +7,11 @@ This unity application collects behavioural data (head, hands and verbal communi
 
 the application support a max of two users (running the application from an android oculus quest) and one moderator (running the application from desktop unity editor)
 
+# Scenes
+
+The application only require one scene added to the build settings:
+
+ConeOfVision\UnityGeckoView\UnityProject\Assets\Scenes\experiment scenes\Scene
 
 # Build the application
 
