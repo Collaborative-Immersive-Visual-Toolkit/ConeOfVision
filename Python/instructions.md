@@ -16,7 +16,7 @@ C - python generateParameters.py --path [SGazepath] --type txt --output [SGaze.p
 
 
 ------------------------
-Gaze in the wild Dataset
+Gaze in the wild Dataset https://www.nature.com/articles/s41598-020-59251-5
 
 
 1 - Download dataset from #http://www.cis.rit.edu/~rsk3900/gaze-in-wild/, alternatively donwload the processed pkl file from https://drive.google.com/file/d/1irzn4J2xQrkkI68ILrI2uU6hz_KP_sIZ/view?usp=sharing and skip step B and C 
@@ -27,7 +27,7 @@ Gaze in the wild Dataset
 
 
 --------------------------------
-S gaze dataset 
+S gaze dataset  https://cranehzm.github.io/SGaze/pdf/hu19_SGaze.pdf
 
 
 1 - Download dataset from https://cranehzm.github.io/SGaze.html, alternatively donwload the processed pkl file from https://drive.google.com/file/d/1QFmXJjakkOJJMkqEGedsmxdTgTUDIYbI/view?usp=sharing and skip step B and C 
