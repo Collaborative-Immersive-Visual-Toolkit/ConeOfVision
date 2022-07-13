@@ -45,7 +45,7 @@ S gaze dataset
 ------------------------------------------------------------------------------------------------
 3 - If you want to extract the contours for use in the unity application use afm_10_contours.py
 ------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/7544912/178710542-899e8354-7689-4586-9511-958854979cef.png)
+
 ![image](https://user-images.githubusercontent.com/7544912/178714374-ac665a4d-a1c3-4084-8ed5-8fa388116af3.png)
 
 In order to use the extracted contour in the Unity application you will need to reformat the json file with only one of the extracted contours
