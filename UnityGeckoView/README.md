@@ -23,3 +23,5 @@ The application support two modes:
 2 - User mode: this is the headset unity android modality you need to either build and deploy or you could use the oculus link to test it out (however bare in mind that the browser plugin only works in android)
 
 To switch between modalities you have to use the GameSettings scriptable object and thick or untick the Observer boolean (see image below)
+
+![Picture2](https://github.com/Collaborative-Immersive-Visual-Toolkit/ConeOfVision/blob/master/UnityGeckoView/scriptable.JPG)
