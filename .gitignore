@@ -12,13 +12,13 @@ local.properties
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/UnityGeckoView/UnityProject/[Ll]ibrary/
+/UnityGeckoView/UnityProject/[Tt]emp/
+/UnityGeckoView/UnityProject/[Oo]bj/
+/UnityGeckoView/UnityProject/[Bb]uild/
+/UnityGeckoView/UnityProject/[Bb]uilds/
+/UnityGeckoView/UnityProject/[Ll]ogs/
+/UnityGeckoView/UnityProject/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
