@@ -16,6 +16,10 @@ If you need info to build the application for Oculus Quest Android follow this l
 
 The application supports multiplayers using the PUN2 Photon Unity Network plugin you need a free account to run it https://www.photonengine.com/pun
 
+And create a Photon Cloud App 
+
+![Picture2](https://github.com/Collaborative-Immersive-Visual-Toolkit/ConeOfVision/blob/master/photonserversettings.JPG)
+
 The application support two modes:
 
 1 - Observer mode: this is the experimenter moderator and can be runned by a desktop computer, in this modality the experimenter data will be collected ; you can run the observer mode directly from the unity editor without the need to build the application for a different platform 
