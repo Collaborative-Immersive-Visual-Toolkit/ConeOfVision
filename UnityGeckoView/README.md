@@ -41,3 +41,7 @@ The application support two modes:
 To switch between modalities you have to use the GameSettings scriptable object and thick or untick the Observer boolean (see image below)
 
 ![Picture2](https://github.com/Collaborative-Immersive-Visual-Toolkit/ConeOfVision/blob/master/UnityGeckoView/scriptable.JPG)
+
+# Gekoviewplugin 
+
+The plugin was forket from the following project https://github.com/IanPhilips/UnityOculusAndroidVRBrowser
